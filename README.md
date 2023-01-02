@@ -5,7 +5,7 @@
 - 📫 How to reach me : you need to know me :)
 
 
-[![Top Langs](https://readme-stats2-nine.vercel.app/api/top-langs/?username=codingforaddicts&layout=compact)](https://github.com/codingforaddicts)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingforaddicts&layout=compact)](https://github.com/codingforaddicts)
 
 <!---
 CodingForAddicts/CodingForAddicts is a ✨ special ✨ repository
