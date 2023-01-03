@@ -1,7 +1,12 @@
 <div align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&duration=3000&pause=100&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=400&height=93&lines=Hello;I'm+Antoine%2C+A+highschool+student;I'm+a+young+developper+" alt="Typing SVG" /></a>
 </div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <div align="center">
  
