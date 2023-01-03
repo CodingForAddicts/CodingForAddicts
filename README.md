@@ -3,7 +3,7 @@
 </div>
 
 
-<div align="left" >
+<div align="center">
  
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000187.b35aecab20f6465ca1bba50dd0e21c73.2211)](https://github.com/rayriffy/apple-music-github-profile)
  
