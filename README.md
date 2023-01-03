@@ -1,25 +1,42 @@
 <div align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&duration=3000&pause=100&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=400&height=93&lines=Hello;I'm+Antoine%2C+A+highschool+student;I'm+a+young+developper+" alt="Typing SVG" /></a>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
+  # Some Repos that slayyyy (gen zzzzz)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
-<div align="center">
- 
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  <div align="left">
+    
+  # Music & me
+    
+   </div>
+  
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000187.b35aecab20f6465ca1bba50dd0e21c73.2211)](https://github.com/rayriffy/apple-music-github-profile)
+  
  
  </div>
- 
-# Music & me
+
+
  
   Music is my life. It surrounds me, it flows through me, it lifts me up when I'm feeling down. It's a constant companion, always there for me when I need it. I can't imagine living without it. And when it comes to listening to my favorite tunes, there's nothing quite like Apple Music. It has an incredible selection of songs, both old and new, and its recommendations always seem to hit the spot. Whether I'm jamming out at home or on the go, Apple Music is my go-to source for all things music. I love it, and I know I couldn't live without it. 
  
  
 <h3>some stats because why not</h3>
+
+
+
+
 
 <div align="left">
 
@@ -27,6 +44,15 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingforaddicts&layout=compact)](https://github.com/codingforaddicts) 
  
   </div>
+  
+  <table border="none">
+<thead border="none">
+  <tr border="none">
+    <td border="none">IMAGE</td>
+    <td border="none">TEXT</td>
+  </tr>
+</thead>
+</table> 
 
 
 <!---
