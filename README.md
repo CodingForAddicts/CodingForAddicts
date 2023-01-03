@@ -4,17 +4,17 @@
 
   # Some Repos that slayyyy (gen zzzzz)
 <div align="center">
-  <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/CodingForAddicts/blog-nextjs-sanity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=blog-nextjs-sanity" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/CodingForAddicts/AntoineXreloaded">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=AntoineXreloaded" />
 </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <a href="https://github.com/CodingForAddicts/winter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=winter" />
 </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <a href="https://github.com/CodingForAddicts/StyloSocial-v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=StyloSocial-v2" />
 </a>
   <div align="left">
     
