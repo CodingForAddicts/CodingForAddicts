@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=2000&pause=100&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=93&lines=Hello;I'm+Antoine%2C+A+highschool+student;I'm+a+young+developper+" alt="Typing SVG" /></a>
 </div>
 
-  # Some Repos that slayyyy (gen zzzzz)
+  # Some Repos that slayyyy (gen zzzzzz)
 <div align="center">
   <a href="https://github.com/CodingForAddicts/blog-nextjs-sanity">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=blog-nextjs-sanity" />
