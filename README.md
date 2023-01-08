@@ -35,7 +35,7 @@ Music is my life. It surrounds me, it flows through me, it lifts me up when I'm 
 </table> 
  
  
-# some stats because why not
+# some stats because why not!
 
 
 
