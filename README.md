@@ -29,7 +29,7 @@
     
 </td>
     <td >
-Music is my life. It surrounds me, it flows through me, it lifts me up when I'm feeling down. It's a constant companion, always there for me when I need it. I can't imagine living without it. And when it comes to listening to my favorite tunes, there's nothing quite like Apple Music. It has an incredible selection of songs, both old and new, and its recommendations always seem to hit the spot. Whether I'm jamming out at home or on the go, Apple Music is my go-to source for all things music. I love it, and I know I couldn't live without it. </td>
+Music is my life. It surrounds me, it flows through me, it lifts me up when I'm feeling down. It's a constant companion, always there for me when I need it. I can't imagine living without it. And when it comes to listening to my favorite tunes, there's nothing quite like Apple Music. It has an incredible selection of songs, both old and new, and its recommendations always seem to hit the spot. Whether I'm jamming out at home or on the go, Apple Music is my go-to source for all things music. I love it, and I know I couldn't live without it!!! </td>
   </tr>
 </thead>
 </table> 
