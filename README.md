@@ -25,7 +25,7 @@
   <tr style="border-collapse: collapse; border: none;">
  <td WIDTH=400px > 
       
- [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/dark.svg?uid=000187.b35aecab20f6465ca1bba50dd0e21c73.2211)](https://github.com/rayriffy/apple-music-github-profile) 
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000187.b35aecab20f6465ca1bba50dd0e21c73.2211)](https://github.com/rayriffy/apple-music-github-profile)
     
 </td>
     <td >
