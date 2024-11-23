@@ -1,22 +1,6 @@
 <div align="center" >
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=1000&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hello;I'm+Antoine%2C+an+EPITA+student;I'm+a+young+developper+(+front-end+,+swiftui)" alt="Typing SVG" />
 </div>
-
-  # Some Repos that slayyyyy (gen zzzzzz)
-<div align="center">
-  <a href="https://github.com/CodingForAddicts/blog-nextjs-sanity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=blog-nextjs-sanity" />
-</a>
-<a href="https://github.com/CodingForAddicts/AntoineXreloaded">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=AntoineXreloaded" />
-</a>
-  <a href="https://github.com/CodingForAddicts/winter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=winter" />
-</a>
-  <a href="https://github.com/CodingForAddicts/StyloSocial-v2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingForAddicts&repo=StyloSocial-v2" />
-</a>
-  <div align="left">
     
   # Music & me
     
