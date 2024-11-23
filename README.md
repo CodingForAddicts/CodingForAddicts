@@ -42,7 +42,7 @@ Music is my life. It surrounds me, it flows through me, it lifts me up when I'm 
 
 
 <div align="left">
-[![codingforaddicts's wakatime stats](https://waka.hackclub.com/api/activity/chart/U04FRJN0J82.svg)]
+
  [![codingforaddicts's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codingforaddicts)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/codingforaddicts)) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingforaddicts&layout=compact)](https://github.com/codingforaddicts) 
  
