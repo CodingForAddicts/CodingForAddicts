@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=1000&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hello;I'm+Antoine%2C+A+highschool+student;I'm+a+young+developper+(+front-end+,+swiftui)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=1000&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hello;I'm+Antoine%2C+an+EPITA+student;I'm+a+young+developper+(+front-end+,+swiftui)" alt="Typing SVG" />
 </div>
 
   # Some Repos that slayyyyy (gen zzzzzz)
