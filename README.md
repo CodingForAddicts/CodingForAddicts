@@ -1,23 +1,7 @@
 <div align="center" >
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=1000&color=8806FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=150&lines=Hello;I'm+Antoine%2C+an+EPITA+student;I'm+a+young+developper+(+front-end+,+swiftui)" alt="Typing SVG" />
 </div>
-    
-  # Music & me
-    
-  <table >
-<thead >
-  <tr style="border-collapse: collapse; border: none;">
- <td WIDTH=400px > 
-      
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000187.b35aecab20f6465ca1bba50dd0e21c73.2211)](https://github.com/rayriffy/apple-music-github-profile)
-    
-</td>
-    <td >
-Music is my life. It surrounds me, it flows through me, it lifts me up when I'm feeling down. It's a constant companion, always there for me when I need it. I can't imagine living without it. And when it comes to listening to my favorite tunes, there's nothing quite like Apple Music. It has an incredible selection of songs, both old and new, and its recommendations always seem to hit the spot. Whether I'm jamming out at home or on the go, Apple Music is my go-to source for all things music. I love it, and I know I couldn't live without it!!! </td>
-  </tr>
-</thead>
-</table> 
- 
+
  
 # some stats because why not!
 
